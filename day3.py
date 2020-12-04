@@ -1,3 +1,4 @@
+
 mapT = []
 
 with open('day3.txt', 'r', encoding='utf-8') as var:
